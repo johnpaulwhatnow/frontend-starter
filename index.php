@@ -1,4 +1,4 @@
-<?php /* this is a git test */ ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
